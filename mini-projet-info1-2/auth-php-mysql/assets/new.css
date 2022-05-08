@@ -1,0 +1,18 @@
+.new_nav {
+  background-color: #0170be !important;
+}
+
+.new_logo {
+  width: 100px;
+  margin-left: 50px;
+}
+
+.new_img {
+  width: 100%;
+}
+
+.new_img_container {
+  height: 250px;
+  display: flex;
+  margin: 10px 0;
+}
